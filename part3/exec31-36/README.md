@@ -1,10 +1,10 @@
 # Exercises from 3.1 to 3.6
 
-> _You must initialize this project with the `npm init` command_
+> :bell: _You must initialize this project with the `npm init` command_
 
-> _The application must be started with the command `npm start`._
+> :bell: _The application must be started with the command `npm start`._
 
-> _The application must also offer an `npm run dev` command that will run the application and restart the server whenever changes are made and saved to a file in the source code._
+> :bell: _The application must also offer an `npm run dev` command that will run the application and restart the server whenever changes are made and saved to a file in the source code._
 
 ## 3.1: Phonebook backend step1
 
